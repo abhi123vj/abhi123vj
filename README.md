@@ -15,11 +15,12 @@ Hi, I'm Abhiram, a passionate self-taught App developer from India.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png"></code>
+<code><img height="20" src="https://techcrunch.com/wp-content/uploads/2020/10/image9.png"></code>
+<code><img height="20" src="https://kotlinexpertise.com/wp-content/uploads/2018/05/cropped-Kotlin-logo.png"></code>
+<code><img height="20" src="http://assets.stickpng.com/images/5847f289cef1014c0b5e486b.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>    
 
 
 <a href>
