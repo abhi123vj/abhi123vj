@@ -16,7 +16,7 @@ Hi, I'm Abhiram, a passionate self-taught App developer from India.
 **Languages and Tools:**  
 
 <code><img height="20" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png"></code>
-<code><img height="20" src="https://techcrunch.com/wp-content/uploads/2020/10/image9.png"></code>
+<code><img height="20" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.png"></code>
 <code><img height="20" src="https://kotlinexpertise.com/wp-content/uploads/2018/05/cropped-Kotlin-logo.png"></code>
 <code><img height="20" src="http://assets.stickpng.com/images/5847f289cef1014c0b5e486b.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
