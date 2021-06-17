@@ -1,38 +1,40 @@
-### Hi there, I'm [Abhi!](https://abh16am.web.app) 👋
+## Hey there, I'm [Abhiram][website] 👋
+##### A Passionate self-taught Android developer from India.
+---
+- 🔭 I’m currently working on [Traders Journal](https://github.com/abhi123vj/Bull-Run)
+- 🌱 Trying to improve my skills everyday
+- 🥅 2021 Goals: Contribute  to Open Source projects
 
+### Connect with me:
 
-<a href="https://twitter.com/4bhiram">
-  <img align="left" alt="Abhiram | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)][linkedin]
+[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)][instagram]
+[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)][twitter]
+[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=google-chat)](mailto:vipul@hexoncode.com)
+[![Facebook](https://img.shields.io/badge/Website-skyblue?style=for-the-badge&logo=google-chrome)][website]
+<br />
+
+---
+
+![Abhi's Github Stats](https://github-readme-stats.vercel.app/api?username=abhi123vj&show_icons=true&hide_border=true&count_private=true&theme=radical)
+
+<a href="https://github.com/abhi123vj/UCEK_Book">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi123vj&repo=UCEK_Book&hide_border=true&theme=radical" />
 </a>
-<br />
-<br />
 
-Hi, I'm Abhiram, a passionate self-taught App developer from India.
-
-- 🔭 I’m currently working on [traders-journal](https://github.com/abhi123vj/Bull-Run)
-- 🌱 I’m currently learning Flutter
-- 💬 Ask me about anything [here](https://github.com/abhi123vj/abhi123vj/issues)
+---
 
 **Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+​
 
-<code><img height="20" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png"></code>
-<code><img height="20" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.png"></code>
-<code><img height="20" src="https://kotlinexpertise.com/wp-content/uploads/2018/05/cropped-Kotlin-logo.png"></code>
-<code><img height="20" src="http://assets.stickpng.com/images/5847f289cef1014c0b5e486b.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>    
-
-
-<a href>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=abhi123vj&show_icons=true&include_all_commits=true&theme=material-palenight" alt="4bh1's github stats" />
-</a>
-<a >
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi123vj&layout=compact&theme=material-palenight" />
-</a>
-
-
-## More 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/4bhi6am)](https://www.instagram.com/4bhi6am) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:4bh1ram@gmail.com)](mailto:4bh1ram@gmail.com)
-
+[website]: https://abh16am.web.app/
+[twitter]: https://twitter.com/4bhiram
+[instagram]: https://www.instagram.com/4bhi6am
+[linkedin]: https://www.linkedin.com/in/abhiram-s-01479616a
+[facebook]: https://www.facebook.com/profile.php?id=100004170678708
+[xda]: https://forum.xda-developers.com/member.php?u=6546022
