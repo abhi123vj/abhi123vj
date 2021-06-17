@@ -68,25 +68,6 @@ Hi, I'm Abhiram, a passionate self-taught App developer from India.
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/abhi123vj/github-readme-stats)*
 
-
-<a href>
-  <img align="center" src="https://github-readme-stats.abhi123vj.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="4bh1's github stats" />
-</a>
-<a >
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.abhi123vj.vercel.app/api/top-langs/?username=abhi123vj&layout=compact&theme=material-palenight" />
-</a>
-
-<a >
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.abhi123vj.vercel.app/api/pin/?username=abhi123vj&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a >
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.abhi123vj.vercel.app/api/pin/?username=abhi123vj&repo=abhi123vj.github.io&theme=material-palenight" />
-</a>
-
-
 ## More 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/4bhi6am)](https://www.instagram.com/4bhi6am) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:4bh1ram@gmail.com)](mailto:4bh1ram@gmail.com)
