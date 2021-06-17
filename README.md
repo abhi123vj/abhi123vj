@@ -8,7 +8,7 @@
 ---
 
 **Languages and Tools:**
-  
+
 <code><img  height="20" src="https://i.ibb.co/8sQv62v/355-3557482-flutter-logo-png-transparent-png.png"></code>
 <code><img height="20" src="https://sdtimes.com/wp-content/uploads/2021/05/Untitled-10.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
@@ -22,8 +22,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)][linkedin]
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)][instagram]
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)][twitter]
-[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=google-chat)](mailto:vipul@hexoncode.com)
-[![Facebook](https://img.shields.io/badge/Website-skyblue?style=for-the-badge&logo=google-chrome)][website]
+[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=google-chat)](mailto:4bh1ram@gmail.com)
+[![website](https://img.shields.io/badge/Website-skyblue?style=for-the-badge&logo=google-chrome)][website]
 <br />
 
 ---
@@ -41,4 +41,3 @@
 [instagram]: https://www.instagram.com/4bhi6am
 [linkedin]: https://www.linkedin.com/in/abhiram-s-01479616a
 [facebook]: https://www.facebook.com/profile.php?id=100004170678708
-[xda]: https://forum.xda-developers.com/member.php?u=6546022
