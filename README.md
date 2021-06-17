@@ -30,14 +30,6 @@ Hi, I'm Abhiram, a passionate self-taught App developer from India.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhi123vj&layout=compact&theme=material-palenight" />
 </a>
 
-### Hi there, I'm [Abhi!](https://abh16am.web.app) 👋
-
-
-<a href="https://twitter.com/4bhiram">
-  <img align="left" alt="Abhiram | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<br />
-<br />
 
 ## More 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/4bhi6am)](https://www.instagram.com/4bhi6am) 
