@@ -27,7 +27,7 @@ Hi, I'm Abhiram, a passionate self-taught App developer from India.
 </a>
 <a >
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhi123vj&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi123vj&layout=compact&theme=material-palenight" />
 </a>
 
 
