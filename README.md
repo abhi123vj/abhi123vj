@@ -1,7 +1,7 @@
 ## Hey there, I'm [Abhiram][website] 👋
 ##### A Passionate self-taught Android developer from India.
 ---
-- 🔭 I’m currently working on [Traders Journal](https://github.com/abhi123vj/Bull-Run)
+- 🔭 I’m currently working on [Group Todo list](https://play.google.com/store/apps/details?id=com.abhi.todoapp)
 - 🌱 Trying to improve my skills everyday
 - 🥅 2021 Goals: Contribute  to Open Source projects
 
