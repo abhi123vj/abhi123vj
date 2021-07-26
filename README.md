@@ -37,7 +37,7 @@
 
 <a href="https://github.com/abhi123vj/Group-ToDo-List">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi123vj&repo=UCEK_Book&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi123vj&repo=Group-ToDo-List&hide_border=true&theme=radical" />
 
 </a>
 
