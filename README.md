@@ -3,7 +3,7 @@
 ---
 - 🔭 I’m currently working on [Group Todo list](https://play.google.com/store/apps/details?id=com.abhi.todoapp)
 - 🌱 Trying to improve my skills everyday
-- 🥅 2021 Goals: Contribute  to Open Source projects
+- 🥅 2022 Goals: Contribute  to Open Source projects
 
 ---
 
@@ -42,7 +42,7 @@
 </a>
 
 
-[website]: https://abh16am.web.app/
+[website]: https://abh1ram.web.app/
 [twitter]: https://twitter.com/4bhiram
 [instagram]: https://www.instagram.com/4bhi6am
 [linkedin]: https://www.linkedin.com/in/abhiram-s-01479616a
