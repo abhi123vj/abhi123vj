@@ -1,7 +1,7 @@
 ## Hey there, I'm [Abhiram][website] 👋
 ##### A Passionate self-taught Crossplaform developer from India.
 ---
-- 🔭 I’m currently working on [Group Todo list](https://play.google.com/store/apps/details?id=com.abhi.todoapp)
+- 🔭 I’m currently working on [Portfolio](https://github.com/abhi123vj/portfolio-2k25)
 - 🌱 The shortest answer is doing
 - 🥅 2025 Goals: YTD
 
