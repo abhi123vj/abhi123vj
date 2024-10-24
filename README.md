@@ -23,7 +23,6 @@ I'm a passionate self-taught developer who believes in building things that matt
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" height="20" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="20" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" height="20" />
-  <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/icon.png" alt="Next.js" height="20" />
 </p>
 
 ### 🤝 Connect with me
