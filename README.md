@@ -1,11 +1,24 @@
-## Hey there, I'm [Abhiram][website] 👋
-##### A Passionate self-taught Crossplaform developer from India.
----
-- 🔭 I’m currently working on [Portfolio](https://github.com/abhi123vj/portfolio-2k25)
-- 🌱 The shortest answer is doing
-- 🥅 2025 Goals: YTD
+# 👋 Hey there! I'm Abhiram
+#### *Turning coffee into code and ideas into reality*
+
+I'm a passionate self-taught developer who believes in building things that matter. Whether it's mobile, web, or anything in between, I love bringing innovative solutions to life!
 
 ---
+
+### 🚀 What's Keeping Me Busy
+
+- 🛠️ Currently crafting [Sprint Hub](https://github.com/abhi123vj/sprint-hub) - where productivity meets simplicity
+- 💡 Living by the motto: "The shortest answer is doing"
+- 🎯 Constantly pushing boundaries and embracing new challenges in tech
+
+### 🌐 Find Me Around the Web
+[<img src="https://img.shields.io/badge/Portfolio-4bh1.xyz-blue?style=flat-square">](https://4bh1.xyz)
+
+---
+
+> "The best way to predict the future is to create it" 
+
+*Stay tuned for more exciting projects and adventures in code!* ✨
 
 **Languages and Tools:**
 
