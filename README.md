@@ -29,12 +29,31 @@ I'm a passionate self-taught developer who believes in building things that matt
 
 ### 📊 GitHub Stats
 
-<a href="http://www.github.com/abhi123vj"><img src="https://github-readme-stats.vercel.app/api?username=abhi123vj&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abhi123vj's GitHub stats" /></a>
+<div align="center">
 
-<a href="http://www.github.com/abhi123vj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi123vj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<table>
+  <tr>
+    <td>
+      <a href="http://www.github.com/abhi123vj">
+        <img src="https://github-readme-stats.vercel.app/api?username=abhi123vj&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="abhi123vj's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="http://www.github.com/abhi123vj">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi123vj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/abhi123vj">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi123vj&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/abhi123vj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi123vj&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+</div>
 
 ### 🌟 Featured Projects
 <a href="https://github.com/abhi123vj/UCEK_Book">
