@@ -35,19 +35,7 @@ I'm a passionate self-taught developer who believes in building things that matt
 
 <a href="https://github.com/abhi123vj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi123vj&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/sdfsdfds"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/sdfdsfsfd"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
 ### 🌟 Featured Projects
 <a href="https://github.com/abhi123vj/UCEK_Book">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi123vj&repo=UCEK_Book&hide_border=true&theme=radical" />
