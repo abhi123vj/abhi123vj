@@ -38,14 +38,14 @@ I'm a passionate self-taught developer who believes in building things that matt
         <img src="https://github-readme-stats.vercel.app/api?username=abhi123vj&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="abhi123vj's GitHub stats" />
       </a>
     </td> 
-     <td rowspan="2" align="center">
+    <td rowspan="2" align="center">
       <a href="https://github.com/abhi123vj">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi123vj&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
       </a>
     </td>
   </tr>
-  <tr style="background-color: transparent">
-    <td >
+  <tr style="background-color: rgba(0, 0, 0, 0)">
+    <td>
       <a href="http://www.github.com/abhi123vj">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi123vj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
       </a>
